@@ -1,0 +1,6 @@
+Primero vas a la carpeta donde querés generar tu proyecto
+luego corres el comando npm create vite
+pones el nombre de la carpeta
+te moves a la carpeta para inicializar el proyecto
+npm install para inicializarlo
+listo!
